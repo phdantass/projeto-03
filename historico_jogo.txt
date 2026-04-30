@@ -1,0 +1,2 @@
+titulo;tempo_sessao;tempo_total;status;data
+Minecraft;5.0;5.0;em_andamento;2026-04-29 20:47
